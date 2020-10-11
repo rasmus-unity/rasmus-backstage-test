@@ -2,7 +2,6 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: rasmus-backstage-test
-  description: The place to be, for great artists
 spec:
   type: library
   lifecycle: experimental
